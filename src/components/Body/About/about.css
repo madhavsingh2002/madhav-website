@@ -1,0 +1,40 @@
+.about {
+  padding-bottom: 48px;
+}
+.about-top {
+  display: flex;
+  margin-top: 2%;
+  justify-content: space-between;
+  align-items: center;
+}
+.picture {
+  height: 420px;
+  width: 420px;
+}
+.about-info h1 {
+  font-size: 58px;
+}
+.about-info p {
+  font-size: 30px;
+}
+.info-name {
+  color: #5d2ed6;
+}
+@media only screen and (max-width: 720px) {
+  .about-top {
+    margin-top: 0%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .picture {
+    height: 290px;
+    width: 280px;
+  }
+  .about-info h1 {
+    font-size: 34px;
+  }
+  .about-info p {
+    font-size: 20px;
+  }
+}

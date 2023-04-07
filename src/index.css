@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Darker Grotesque", sans-serif;
+  background-color: #f5f5f5;
+}

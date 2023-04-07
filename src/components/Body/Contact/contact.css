@@ -1,0 +1,35 @@
+.des {
+  font-size: 24px;
+  font-weight: 400;
+}
+.contact-container {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  margin: 16px 0px;
+}
+.down {
+  background: #dd5879;
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+.contact-left {
+  max-width: 60%;
+  font-size: 20px;
+  text-align: center;
+}
+@media only screen and (max-width: 720px) {
+  .contact-container {
+    flex-direction: column;
+  }
+  .contact-left {
+    max-width: 100%;
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+}
