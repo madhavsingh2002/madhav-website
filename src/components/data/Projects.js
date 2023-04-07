@@ -4,7 +4,7 @@ export const ProjectData = [
         title: "Personal Porfolio",
         about: "This Website present all Personal projects that i am working on!",
         tags: ["ReactJS", "Node.js", "HTML", "CSS", "JAVASCRIPT"],
-        demo: "#",
+        demo: "https://madhavsingh2002.github.io/madhav-website/",
         github: "#",
         image: require('../../images/Project-1.png')
     },
