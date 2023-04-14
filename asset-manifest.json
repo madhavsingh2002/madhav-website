@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/madhav-website/static/css/main.567baa26.css",
-    "main.js": "/madhav-website/static/js/main.e824019f.js",
+    "main.js": "/madhav-website/static/js/main.2c31292b.js",
     "static/media/project-2.png": "/madhav-website/static/media/project-2.6d6dfaf3ac14a71643d8.png",
     "static/media/Project-1.png": "/madhav-website/static/media/Project-1.69b2548c7dde3f9083a0.png",
     "static/media/bg.png": "/madhav-website/static/media/bg.aa553e44dd56530c085e.png",
     "index.html": "/madhav-website/index.html",
     "main.567baa26.css.map": "/madhav-website/static/css/main.567baa26.css.map",
-    "main.e824019f.js.map": "/madhav-website/static/js/main.e824019f.js.map"
+    "main.2c31292b.js.map": "/madhav-website/static/js/main.2c31292b.js.map"
   },
   "entrypoints": [
     "static/css/main.567baa26.css",
-    "static/js/main.e824019f.js"
+    "static/js/main.2c31292b.js"
   ]
 }
